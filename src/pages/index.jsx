@@ -11,10 +11,10 @@ import {
   LinkedInIcon,
 } from '@/components/SocialIcons'
 import image1 from '@/images/photos/russ.jpg'
-import image2 from '@/images/photos/mountains.jpeg'
+import image2 from '@/images/photos/mountains.jpg'
 import image3 from '@/images/photos/image-3.jpg'
 import image4 from '@/images/photos/chamonix.jpg'
-import image5 from '@/images/photos/boulder.jpeg'
+import image5 from '@/images/photos/boulder.jpg'
 import logoChorus from '@/images/logos/chorus.png'
 import logoCapgemini from '@/images/logos/capgemini.jpg'
 import logoHealthHero from '@/images/logos/healthhero.png'
